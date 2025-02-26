@@ -19,9 +19,9 @@ This repository provides an efficient LoRA fine-tuning implementation for KLUE-R
 
  
 # 🔗 References
-LoRA: Low-Rank Adaptation of Large Language Models (Paper)
-KLUE: Korean Language Understanding Evaluation (Paper)
-Hugging Face Transformers (Docs)
+LoRA: Low-Rank Adaptation of Large Language Models (https://arxiv.org/abs/2106.09685)
+KLUE: Korean Language Understanding Evaluation (https://arxiv.org/abs/2105.09680)
+Hugging Face Transformers (https://huggingface.co/docs/transformers/index)
 
 
 # 📝 To-Do
