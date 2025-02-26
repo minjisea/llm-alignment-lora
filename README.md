@@ -4,8 +4,11 @@ This repository provides an efficient LoRA fine-tuning implementation for KLUE-R
 
 # 📌 Key Features
 ✅ LoRA-based Fine-Tuning: Efficient parameter tuning with reduced memory footprint.
+
 ✅ 8-bit Quantization: Optimized for low-resource environments using bitsandbytes.
+
 ✅ Sentiment Analysis Task: Pretrained on NSMC (Korean Movie Reviews).
+
 ✅ Colab-Ready: Designed for free-tier Google Colab execution.
 
 
@@ -42,8 +45,11 @@ Colab 환경에서 실행 가능한 경량화된 KLUE-RoBERTa LoRA Fine-Tuning �
 
 ## 📌 주요 내용
 ✅ **LoRA (Low-Rank Adaptation)** 적용
+
 ✅ **8-bit 양자화** (`bitsandbytes` 활용)로 경량화
+
 ✅ **KLUE-RoBERTa** 모델 기반 Fine-Tuning
+
 ✅ **Colab 실행 가능 (무료 환경 지원)**
 
 
