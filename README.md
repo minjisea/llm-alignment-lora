@@ -2,7 +2,7 @@
 
 This repository contains an optimized **Low-Rank Adaptation (LoRA) fine-tuning** implementation for **KLUE-RoBERTa**, utilizing **8-bit quantization** for efficient training on limited computational resources such as Google Colab.  
 
----
+
 
 ## 📌 Features
 ✅ **LoRA-based Fine-Tuning**: Reduces trainable parameters for efficient optimization.  
@@ -10,7 +10,7 @@ This repository contains an optimized **Low-Rank Adaptation (LoRA) fine-tuning**
 ✅ **Sentiment Analysis Task**: Trained on the NSMC (Korean Movie Reviews) dataset.  
 ✅ **Colab-Ready**: Designed to run on Google Colab with minimal modifications.  
 
----
+
 
 ## 📂 File Structure
 lora-finetuning ├── lora_finetune.py # Main script for fine-tuning KLUE-RoBERTa ├── requirements.txt # List of required dependencies ├── README.md # Project documentation
