@@ -14,10 +14,15 @@ This repository provides an efficient LoRA fine-tuning implementation for KLUE-R
 
 # 📂 llm-alignment-lora
  ├── lora_finetune.py      # LoRA fine-tuning script for KLUE-RoBERTa
+ 
  ├── requirements.txt      # Required dependencies
+ 
  ├── README.md             # Documentation
+ 
  ├── dataset_loader.py     # NSMC dataset loader
+ 
  ├── inference.py          # Inference script for evaluation
+ 
  ├── utils.py              # Helper functions (quantization, logging)
 
  
