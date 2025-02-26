@@ -28,13 +28,17 @@ This repository provides an efficient LoRA fine-tuning implementation for KLUE-R
  
 # 🔗 References
 LoRA: Low-Rank Adaptation of Large Language Models (https://arxiv.org/abs/2106.09685)
+
 KLUE: Korean Language Understanding Evaluation (https://arxiv.org/abs/2105.09680)
+
 Hugging Face Transformers (https://huggingface.co/docs/transformers/index)
 
 
 # 📝 To-Do
 - Evaluate on additional Korean NLP tasks
+  
 - Explore other lightweight tuning methods (e.g., QLoRA)
+  
 - Deploy as an API using FastAPI
 
 
